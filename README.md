@@ -2,7 +2,7 @@
 
 A computer vision application that detects and tracks moving objects in video streams using background subtraction. This system is particularly useful for traffic monitoring, security surveillance, and motion analysis.
 
-
+![Motion-Detection](result.gif)
 ## 📋 Features
 
 - **Background Subtraction**: Uses MOG2 algorithm for robust motion detection
